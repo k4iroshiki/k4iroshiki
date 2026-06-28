@@ -39,19 +39,6 @@
 
 ---
 
-## `PROBLEM SOLVING`
-
-<!-- LEETCODE STATS -->
-<!-- Source: https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Kairoshi?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=8" width="500"/>
-
-</div>
-
----
-
 ## `STATS`
 
 <!-- GITHUB STATS CARDS -->
