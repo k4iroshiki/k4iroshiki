@@ -37,24 +37,6 @@
 ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 
----
-
-## `STATS`
-
-<!-- GITHUB STATS CARDS -->
-<!-- Theme options: dark, tokyonight, dracula, radical, merko, gruvbox -->
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kairoshihq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=9b9b9b&text_color=c9d1d9&rank_icon=github&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairoshihq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9d1d9&langs_count=8" />
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kairoshihq&theme=black-ice&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" width="500"/>
-
-</div>
-
 <!-- ACTIVITY GRAPH -->
 
 <div align="center">
